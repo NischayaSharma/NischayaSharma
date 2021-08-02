@@ -1,3 +1,4 @@
+# Hello There
 - Hi, I’m Nischaya Sharma.
 - I’ve worked in the following domains 
    - Fullstack Web and App Development:
@@ -19,5 +20,8 @@
 
 
 ![Nischaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NischayaSharma&show_icons=true&theme=dark)
+<br>
+![Nischaya's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NischayaSharma&layout=compact&lang_count=8&theme=dark)
+
 
 
