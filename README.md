@@ -1,6 +1,6 @@
 # Hello There
 - Hi, I’m Nischaya Sharma.
-- I’ve worked in the following domains 
+- I’ve worked on the following tech stacks: 
    - Fullstack Web and App Development:
       - ReactJS
       - React-Native
