@@ -2,13 +2,13 @@
 - Hi, I’m Nischaya Sharma.
 - I’ve worked on the following tech stacks: 
    - Fullstack Web and App Development:
-      - ReactJS
-      - React-Native
-      - AngularJS
-      - Angular
       - Ionic Framework
-      - ExpressJS
       - Loopback
+      - React-Native
+      - Angular
+      - AngularJS
+      - ExpressJS
+      - ReactJS
     - DevOps:
       - CI/CD (Jenkins)
       - Docker
