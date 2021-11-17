@@ -6,8 +6,8 @@
       - Loopback
       - ReactJS
       - Angular
-      - React-Native
       - NextJS
+      - React-Native
       - ExpressJS
     - DevOps:
       - CI/CD (Jenkins)
