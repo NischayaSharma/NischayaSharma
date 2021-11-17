@@ -4,11 +4,11 @@
    - Fullstack Web and App Development:
       - Ionic Framework
       - Loopback
-      - React-Native
-      - Angular
-      - AngularJS
-      - ExpressJS
       - ReactJS
+      - Angular
+      - React-Native
+      - NextJS
+      - ExpressJS
     - DevOps:
       - CI/CD (Jenkins)
       - Docker
