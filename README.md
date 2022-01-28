@@ -1,18 +1,20 @@
-# Hello There
+# Hello World
 - Hi, I’m Nischaya Sharma.
 - I’ve worked on the following tech stacks: 
    - Fullstack Web and App Development:
+      - Typescript1
       - Ionic Framework
-      - Loopback
-      - ReactJS
-      - Angular
       - NextJS
-      - React-Native
       - ExpressJS
+      - Angular
+      - ReactJS
+      - Loopback
+      - React-Native
     - DevOps:
       - CI/CD (Jenkins)
       - Docker
       - Hosting on GCP and AWS
+      - Hosting on Vercel and Heroku with Pipelines
 
 ![Nischaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NischayaSharma&show_icons=true&theme=dark)
 <br>
