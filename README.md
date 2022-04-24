@@ -2,7 +2,7 @@
 - Hi, I’m Nischaya Sharma.
 - I’ve worked on the following tech stacks: 
    - Fullstack Web and App Development:
-      - Typescript1
+      - Typescript
       - Ionic Framework
       - NextJS
       - ExpressJS
