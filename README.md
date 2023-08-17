@@ -17,7 +17,7 @@
       - Hosting on Vercel and Heroku with Pipelines
 
 ![Nischaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NischayaSharma&theme=dark&show_icons=true)
-<br>
+
 ![Nischaya's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NischayaSharma&layout=compact&lang_count=8&theme=dark)
 
 
