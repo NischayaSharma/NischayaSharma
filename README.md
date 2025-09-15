@@ -16,11 +16,13 @@
 		- Hosting on GCP and AWS
 		- Hosting on Vercel and Heroku with Pipelines
 	- Analytics:
-		- LookerStudio
+		- N8N.io
+  		- LookerStudio
+    	- PowerBI (Basic)
 		- BigQuery
 		- Boltic Pipeline
 		- NodeRed Pipeline
-	  - MySQL
+	  	- MySQL
 
 
 ![Nischaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NischayaSharma&theme=dark&show_icons=true)
