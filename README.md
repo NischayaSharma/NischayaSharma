@@ -11,7 +11,7 @@
 		- Loopback
 		- React-Native
 	- DevOps:
-		- CI/CD (Jenkins)
+		- CI/CD (Jenkins and Github)
 		- Docker
 		- Hosting on GCP and AWS
 		- Hosting on Vercel and Heroku with Pipelines
